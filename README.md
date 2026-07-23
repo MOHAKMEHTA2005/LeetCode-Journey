@@ -10,6 +10,7 @@ Just a collection of LeetCode questions.
 | [1480-running-sum-of-1d-array](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/1929-concatenation-of-array) |
+| [2239-find-closest-number-to-zero](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/2239-find-closest-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
