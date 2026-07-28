@@ -29,9 +29,18 @@ Just a collection of LeetCode questions.
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0832-flipping-an-image](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0832-flipping-an-image) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
