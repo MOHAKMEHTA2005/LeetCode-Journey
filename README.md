@@ -51,4 +51,8 @@ Just a collection of LeetCode questions.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0217-contains-duplicate) |
+## Database
+|  |
+| ------- |
+| [1174-immediate-food-delivery-ii](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/1174-immediate-food-delivery-ii) |
 <!---LeetCode Topics End-->
