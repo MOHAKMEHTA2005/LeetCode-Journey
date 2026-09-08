@@ -55,5 +55,6 @@ Just a collection of LeetCode questions.
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0176-second-highest-salary) |
+| [0183-customers-who-never-order](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0183-customers-who-never-order) |
 | [1174-immediate-food-delivery-ii](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/1174-immediate-food-delivery-ii) |
 <!---LeetCode Topics End-->
