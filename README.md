@@ -7,6 +7,7 @@ Just a collection of LeetCode questions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0832-flipping-an-image](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0832-flipping-an-image) |
 | [1470-shuffle-the-array](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/1470-shuffle-the-array) |
@@ -31,6 +32,7 @@ Just a collection of LeetCode questions.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0832-flipping-an-image](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
@@ -57,4 +59,8 @@ Just a collection of LeetCode questions.
 | [0176-second-highest-salary](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0183-customers-who-never-order) |
 | [1174-immediate-food-delivery-ii](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/1174-immediate-food-delivery-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
