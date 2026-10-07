@@ -43,6 +43,7 @@ Just a collection of LeetCode questions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 ## Math
@@ -63,4 +64,12 @@ Just a collection of LeetCode questions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
