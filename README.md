@@ -8,6 +8,7 @@ Just a collection of LeetCode questions.
 | ------- |
 | [0001-two-sum](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0832-flipping-an-image](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0832-flipping-an-image) |
 | [1470-shuffle-the-array](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/1470-shuffle-the-array) |
@@ -33,6 +34,7 @@ Just a collection of LeetCode questions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0011-container-with-most-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0832-flipping-an-image](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
@@ -72,4 +74,8 @@ Just a collection of LeetCode questions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
