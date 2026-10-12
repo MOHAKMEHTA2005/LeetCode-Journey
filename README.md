@@ -37,6 +37,7 @@ Just a collection of LeetCode questions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0832-flipping-an-image](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,4 +79,8 @@ Just a collection of LeetCode questions.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
