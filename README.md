@@ -10,6 +10,7 @@ Just a collection of LeetCode questions.
 | [0011-container-with-most-water](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0217-contains-duplicate) |
+| [0724-find-pivot-index](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0832-flipping-an-image) |
 | [1470-shuffle-the-array](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/1480-running-sum-of-1d-array) |
@@ -25,6 +26,7 @@ Just a collection of LeetCode questions.
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/1991-find-the-middle-index-in-array) |
 ## Matrix
