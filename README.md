@@ -8,6 +8,7 @@ Just a collection of LeetCode questions.
 | ------- |
 | [0001-two-sum](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0724-find-pivot-index) |
@@ -82,6 +83,7 @@ Just a collection of LeetCode questions.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Linked List
 |  |
