@@ -58,6 +58,7 @@ Just a collection of LeetCode questions.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0202-happy-number) |
+| [2235-add-two-integers](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/2235-add-two-integers) |
 ## Sorting
 |  |
 | ------- |
