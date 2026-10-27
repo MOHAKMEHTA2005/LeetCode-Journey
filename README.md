@@ -9,6 +9,7 @@ Just a collection of LeetCode questions.
 | [0001-two-sum](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0724-find-pivot-index) |
@@ -41,6 +42,7 @@ Just a collection of LeetCode questions.
 | [0011-container-with-most-water](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0202-happy-number) |
 | [0832-flipping-an-image](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0832-flipping-an-image) |
@@ -64,6 +66,7 @@ Just a collection of LeetCode questions.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MOHAKMEHTA2005/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 ## Database
 |  |
